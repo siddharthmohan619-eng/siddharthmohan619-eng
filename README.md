@@ -11,7 +11,7 @@
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3200&pause=1100&color=06B6D4&center=true&vCenter=true&width=720&height=55&lines=Hello+World!+I'm+Siddharth.;Team+Captain+%26+Lead+AI+Developer;Deep+Learning+%7C+Atmospheric+AI;Explainable+Vision+%7C+Model+Deployment"
     width="100%"
-    alt="Team Captain and Lead AI Developer focused on deep learning, atmospheric AI, explainable vision, and deployment"
+    alt="Lead AI Developer focused on deep learning, atmospheric AI, explainable vision, and deployment"
   />
 
   <p>
